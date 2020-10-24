@@ -87,7 +87,8 @@ p{
 }
 
 footer{
-
+    margin-top: 3em;
+    padding-top: 3em;
 }
 
 footer li{
@@ -112,7 +113,9 @@ footer a:hover{
     display: block;
     margin: auto;
     width: 10%;
-    padding: 5em;
+    padding-top: 4em;
+    padding-left: -3em;
+    
 
 }
 
